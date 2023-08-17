@@ -1,2 +1,2 @@
-# C206-2023
+# C206
 Repositórios para Programação orientada a objetos
